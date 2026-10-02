@@ -374,7 +374,7 @@ Algumas melhorias que podem ser implementadas futuramente:
 * [x] 🟡 Operação `PUT`
 * [x] 🔴 Operação `DELETE`
 * [x] 🧪 Testes da API
-* [ ] 🎥 Vídeo de demonstração
+* [x] 🎥 Vídeo de demonstração
 
 ---
 
